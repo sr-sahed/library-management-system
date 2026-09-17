@@ -23,7 +23,7 @@ A full-stack, professional Library Management System built using **Java 17+, Spr
 ## 💻 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/sr-sahed/library-management-system.git](https://github.com/sr-sahed/library-management-system.git)
+   git clone https://github.com/sr-sahed/library-management-system.git
    ```
 
 
