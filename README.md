@@ -3,6 +3,10 @@
 
 A full-stack, professional Library Management System built using **Java 17+, Spring Boot, Thymeleaf, and H2/MySQL database**. This project demonstrates core Object-Oriented Programming (OOP) principles and enterprise software architecture.
 
+## 🌐 Live Demo
+You can access the live application here:  
+👉 [Library Management System Live Demo](https://library-management-system-production-554a.up.railway.app)
+
 ## 🚀 Features
 - **OOP Principles Applied:** 
   - **Abstraction & Inheritance:** `User` abstract class subclassed by `Admin` and `Student`.
